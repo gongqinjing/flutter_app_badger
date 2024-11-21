@@ -8,7 +8,7 @@
             <key>type</key>
             <string>NSPrivacyAccessedAPICategoryUserDefaults</string>
             <key>purpose</key>
-            <string>Basic app functionality</string>
+            <string>To display app badge notifications</string>
         </dict>
     </array>
     <key>NSPrivacyCollectedDataTypes</key>
